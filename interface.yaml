@@ -1,0 +1,3 @@
+name: jupyterhub-spawner
+summary: JupyterHub spawner interface
+version: 1
